@@ -28,3 +28,4 @@ local-1
 web-4
 local-2
 web-5
+web-6
